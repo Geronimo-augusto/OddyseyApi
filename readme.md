@@ -416,7 +416,30 @@ A câmera iniciará o monitoramento e enviará os dados para o ecossistema.
 
 ---
 
-# 👨‍💻 Autor
+# 🤝 Colaboradores
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<a href="https://github.com/AnaTorresLoureiro" target="_blank" style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/AnaTorresLoureiro" width="120" style="border-radius: 50%;">
+  <p>Ana Laura Torres Loureiro - RM 554375</p>
+</a>
+
+<a href="https://github.com/MuriloCngp" target="_blank" style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/MuriloCngp" width="120" style="border-radius: 50%;">
+  <p>Murilo Cordeiro Ferreira - RM 556727</p>
+</a>
+
+<a href="https://github.com/Geronimo-augusto" target="_blank" style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/Geronimo-augusto" width="120" style="border-radius: 50%;">
+  <p>Geronimo Augusto Nascimento Santos - RM 557170</p>
+</a>
+
+
+<a href="https://github.com/iannyrfs" target="_blank" style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/iannyrfs" width="120" style="border-radius: 50%;">
+  <p>Ianny Raquel Ferreira De Souza - RM 559096</p>
+</a>
 
 Projeto desenvolvido para a **Global Solution**, com foco em:
 
