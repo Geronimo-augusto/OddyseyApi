@@ -1,0 +1,16 @@
+# ==========================================
+# ODDYSEY - Edge Gateway (Python 3.8.10)
+# ==========================================
+
+# Visão Computacional e YOLO
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+
+# Suporte Matemático do OpenCV/YOLO
+numpy>=1.21.0,<1.25.0
+
+# Comunicação HTTP (Para enviar ao C# e buscar no OpenWeather)
+requests>=2.31.0
+
+# (Opcional) Caso o ultralytics peça dependências extras de visão em ambiente Windows/Linux limpo
+Pillow>=9.5.0
