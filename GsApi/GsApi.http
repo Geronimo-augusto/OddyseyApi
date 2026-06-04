@@ -1,0 +1,6 @@
+@OddyseyApi_HostAddress = http://localhost:5178
+
+GET {{OddyseyApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
