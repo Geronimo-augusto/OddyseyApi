@@ -1,6 +1,0 @@
-@GsApi_HostAddress = http://localhost:5178
-
-GET {{GsApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
