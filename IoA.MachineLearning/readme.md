@@ -28,18 +28,18 @@ Seu objetivo é transformar grandes volumes de dados ambientais e comportamentai
 ```text
 Oddysey.EdgeGateway
 (Câmeras + YOLO + Clima)
-          │
+│
           ▼
 Oddysey.Api (.NET 10gi)
 (Orquestrador)
-          │
+│
           ▼
 Oddysey.MachineLearning
 (FastAPI + XGBoost)
-          │
+│
           ▼
 Predição de Risco
-          │
+│
           ▼
 Alertas SignalR
 (Defesa Civil / Dashboard)
@@ -156,6 +156,15 @@ heart_rate
 acceleration
 yolo_movement_index
 ```
+
+### Conceitos POO
+
+* Interfaces
+* Injeção de Dependência
+* Classes Abstratas
+* Value Objects
+* Exceções de Domínio
+* Polimorfismo
 
 ---
 
@@ -316,6 +325,12 @@ POST /predict-disaster
 
 ```bash
 pip install -r requirements.txt
+```
+
+Executar a API FastAPI:
+
+```bash
+uvicorn main:app --reload --port 8000
 ```
 
 ---
