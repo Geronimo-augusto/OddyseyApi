@@ -10,7 +10,11 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 ---
+### 🎬 Vídeo do funcionamento
 
+[![Demonstração no YouTube](https://img.shields.io/badge/YouTube-Assistir_Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/5G9euYeWuxI)
+
+---
 # 📖 Visão Geral
 
 O **Internet of Animals (IoA)** é uma plataforma inteligente de monitoramento ambiental que utiliza comportamento animal, telemetria IoT, visão computacional e inteligência artificial para identificar padrões anômalos associados a possíveis desastres naturais.
