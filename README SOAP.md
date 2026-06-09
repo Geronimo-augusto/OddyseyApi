@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Global%20Solution-2026-4ea8de?style=for-the-badge&labelColor=0d0f14"/>
 
-<img src="https://img.shields.io/badge/.NET%208-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET%2010-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=for-the-badge&logo=python&logoColor=white"/>
 
